@@ -1,8 +1,6 @@
 `supply_chain_transportation_problem.txt`
 
 Title: Supply Chain Transportation Problem Solver
-Author: OpenAI
-Date: 2023-05-05
 
 Description:
 This C++ program solves the supply chain transportation problem. The goal is to find the optimal allocation of goods from different supply points to various demand points while minimizing the overall transportation cost.
@@ -42,5 +40,3 @@ Step 9:
 (20, 0) (18, 30) (18, 45)
 
 Minimum transportation cost: 1990
-
-Note: In the output, the matrix represents the allocation of products from each supply point (rows) to each demand point (columns). The numbers in parentheses indicate the cost of transportation and the allocated quantity. The minimum transportation cost is calculated as 1990, which is the optimal solution for this supply chain transportation problem.
